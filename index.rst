@@ -10,11 +10,6 @@ Welcome to Practice Doc's documentation!
    :maxdepth: 2
    :hidden:
  
-   Authors
-   Project
-   Instructions
-   To Do
-
 
 This is documentation of our group's mascots Peanut, Hunch, Honey, Butter, Tom and Jerry. These are rescue animals cared for by group members and we hope they will have happy lives!      
 

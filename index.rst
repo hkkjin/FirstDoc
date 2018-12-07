@@ -27,6 +27,8 @@ Honey & Butter
 --------------
 
 .. image:: Honey.png
+   :scale: 30%
+   :align: center
 
 Sisters from the same litter, they both have tan coats and a extremely curious and friendly.
 

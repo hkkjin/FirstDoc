@@ -26,6 +26,8 @@ He's about one and half years old, has a black and speckled grey coat. He's frie
 Honey & Butter
 --------------
 
+.. image:: Honey.jpeg
+
 Sisters from the same litter, they both have tan coats and a extremely curious and friendly.
 
 Tom & Jerry
